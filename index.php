@@ -1,5 +1,5 @@
 
-<?php include 'C:\dummy\inventory\fmsb\example-esx\fivem-esx.php'; ?>
+<?php include 'fivem-esx.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
