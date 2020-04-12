@@ -1,6 +1,6 @@
 <script>hidden = false</script>
 <?php
-include 'C:\dummy\inventory\fmsb\example-esx\include\connection.php'; // e catching plus connection
+include 'include/connection.php'; // e catching plus connection
 function JobCheck($job) {
     if ($job == false) {
         echo "Unemployed";
