@@ -4,8 +4,8 @@ var auto_refresh = setInterval(
     $("#pl-list").load("fivem.php"); //Load the content into the div
 }), 1000);
 </script>
-<?php include 'C:\dummy\inventory\fmsb\example-esx\include\config.php'; ?>
-<?php include 'C:\dummy\inventory\fmsb\example-esx\include\connection.php'; ?>
+<?php include 'example-esx\include\config.php'; ?>
+<?php include 'example-esx\include\connection.php'; ?>
 <!DOCTYPE html>
 <html lang="en">
 <head>
