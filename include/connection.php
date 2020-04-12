@@ -1,5 +1,5 @@
 <?php
-include 'config.php';
+include 'include/config.php';
 
  $link = mysqli_connect($host, $user, $password, $db);
 if (mysqli_connect_errno()) {
